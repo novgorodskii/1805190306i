@@ -1,0 +1,26 @@
+.reviews {
+  justify-content: space-between;
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+.reviews__link {
+  margin-left: 10px;
+  color: #005da1;
+  font-size: 14px;
+}
+.counter__item {
+  align-items: center;
+  font-size: 12px;
+}
+.counter__item:first-child{
+  margin-right: 20px;
+}
+.icon-img {
+  width: 13px;
+  height: 13px;
+  margin-right: 5px;
+}
+.icon-img:first-child {
+  display: flex;
+  align-items: center;
+}
